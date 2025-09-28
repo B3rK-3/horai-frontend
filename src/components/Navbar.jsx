@@ -7,7 +7,7 @@ export default function Navbar({ onLogout }) {
       <div className="navbar-container">
         
         <NavLink to="/calendar" className="brand">
-          <img src="./public/clockLogo.png" alt="Horai Clock Logo" className="brand-logo" /> Horai
+          <img src="/clockLogo.png" alt="Horai Clock Logo" className="brand-logo" /> Horai
         </NavLink>
         <ul className="nav-links">
           <li>
