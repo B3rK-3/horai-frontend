@@ -6,7 +6,6 @@ import AuthGate from './pages/AuthGate'
 import ConnectionsPage from './pages/ConnectionsPage'
 import AwardsPage from './pages/AwardsPage'
 import ChatPage from './pages/ChatPage'
-import './app.css'
 import ChatWidget from './components/ChatWidget'
 
 export default function App() {
